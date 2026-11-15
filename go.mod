@@ -5,7 +5,7 @@ go 1.26.10
 require (
 	github.com/google/go-cmp v0.7.0
 	github.com/mdlayher/netlink v1.11.2
-	golang.org/x/sys v0.49.0
+	golang.org/x/sys v0.50.0
 )
 
 require (
